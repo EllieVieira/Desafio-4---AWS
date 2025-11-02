@@ -53,8 +53,7 @@ Resources:
 
 ## Referências
 
-- [Documentação Oficial do AWS CloudFormation](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html)  
-- [Formação AWS Cloud Practitioner - DIO](https://www.dio.me)  
+- [Documentação Oficial do AWS CloudFormation](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html)   
 - [Guia de Markdown no GitHub](https://guides.github.com/features/mastering-markdown/)
 
 ---
